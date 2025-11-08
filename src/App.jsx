@@ -4,7 +4,7 @@ function App() {
 
   return (
     <>
-      <h2>counter : {count}</h2>
+      <h2>branch A</h2>
     </>
   );
 }
