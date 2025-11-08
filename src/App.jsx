@@ -5,6 +5,7 @@ function App() {
   return (
     <>
       <h2>counter : {count}</h2>
+      <h2>branche B</h2>
     </>
   );
 }
